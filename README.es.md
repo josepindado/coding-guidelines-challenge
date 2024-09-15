@@ -1,4 +1,4 @@
-# El Desafío de las Normas y Directrices de Programación
+# Lineamientos de Código
 
 Estos desafíos te ayudarán a familiarizarte con las guías de programación más populares; cubre las prácticas más esenciales que todos los desarrolladores deben conocer para tener éxito durante las auditorías de código para desarrolladores junior.
 
